@@ -1,2 +1,3 @@
 # SEII-PedroPaulo
-Projeto de Sistemas Embarcados 2 
+## Pedro Paulo Barbosa Miranda
+## 11421EMT027
